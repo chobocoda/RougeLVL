@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SonLVL")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("RougeLVL")]
+[assembly: AssemblyDescription("Based on SonLVL")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SonLVL")]
-[assembly: AssemblyCopyright("Copyright ©  2011")]
+[assembly: AssemblyProduct("RougeLVL")]
+[assembly: AssemblyCopyright("Copyright MainMemory ©  2011, Copyright CyberChobo ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
